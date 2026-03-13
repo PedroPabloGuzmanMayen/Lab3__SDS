@@ -1,3 +1,4 @@
 pefile
 ipykernel
 pandas
+scikit-learn
